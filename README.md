@@ -36,7 +36,7 @@
 
 ### 🌐 コミュニティ活動
 - AcademiX Medical 設立・運営　(2023年4月～)
-- 日本腎・血液浄化AI学会 評議員、広報・編集委員会委員、プログラム委員（2025年10月〜）
+- 日本腎・血液浄化AI学会 評議員、広報・編集委員会委員（2025年10月〜）
 - 日本医療研究開発機構 ヘルスケア社会実装基盤整備事業 システマティックレビュー委員（2023年7月〜2025年3月）
 
 ### 📫 Contact
@@ -80,7 +80,7 @@ I am a nephrologist conducting research on AI applications in medicine while pra
 
 ### 🌐 Community
 - Founder & Organizer - AcademiX Medical (Apr 2023-)
-- Board Member, Public Relations & Editorial Committee, Program Committee - Japanese Society for AI in Nephrology and Blood Purification (Oct 2025-)
+- Board Member, Public Relations & Editorial Committee - Japanese Society for AI in Nephrology and Blood Purification (Oct 2025-)
 - Systematic Review Committee - AMED Healthcare Social Implementation Infrastructure Development Project (Jul 2023 - Mar 2025)
 
 ### 📫 Contact
