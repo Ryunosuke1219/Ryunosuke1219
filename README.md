@@ -1,6 +1,6 @@
 # Ryunosuke Noda (野田竜之介)
 
-## 日本語
+## 🇯🇵 日本語
 
 腎臓内科医として臨床に従事しながら、AIの医療応用に関する研究を行っています。
 
@@ -45,7 +45,7 @@
 
 ---
 
-## English
+## 🇺🇸 English
 
 I am a nephrologist conducting research on AI applications in medicine while practicing clinically.
 
